@@ -22,4 +22,4 @@ Conflicto arreglado
 <img src="https://github.com/marcmarza/GitEjercicio3/blob/master/ArreglarError.PNG">
 
 Conflicto solucionado
-<img src="https://github.com/marcmarza/GitEjercicio3/blob/master/ErrorSolucionado.PNG"
+<img src="https://github.com/marcmarza/GitEjercicio3/blob/master/ErrorSolucionado.PNG">
